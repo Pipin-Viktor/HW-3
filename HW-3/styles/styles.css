@@ -1,0 +1,31 @@
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    padding-left: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  td {
+    border-top: solid 1px;
+    border-color: rgb(36, 2, 9);
+    border-bottom: solid 1px;
+  }
+
+  table {
+  width: 90%;
+  margin: auto;
+}
+td, th {
+  padding: 0.5rem;
+  border: 1px solid #000;
+}
+
+td {
+    text-align: center;
+}
